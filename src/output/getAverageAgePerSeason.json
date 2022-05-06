@@ -1,0 +1,282 @@
+{
+    "1896": {
+        "Event": [
+            "Athletics Men's 1,500 metres"
+        ],
+        "sumOfAges": 5117,
+        "numOfPlayers": 217,
+        "AverageAge": 23
+    },
+    "1900": {
+        "Event": [
+            "Tug-Of-War Men's Tug-Of-War"
+        ],
+        "sumOfAges": 33273,
+        "numOfPlayers": 1146,
+        "AverageAge": 29
+    },
+    "1904": {
+        "Event": [
+            "Rowing Men's Coxed Eights"
+        ],
+        "sumOfAges": 27419,
+        "numOfPlayers": 1027,
+        "AverageAge": 26
+    },
+    "1906": {
+        "Event": [
+            "Athletics Men's 100 metres"
+        ],
+        "sumOfAges": 26854,
+        "numOfPlayers": 990,
+        "AverageAge": 27
+    },
+    "1908": {
+        "Event": [
+            "Gymnastics Men's Team All-Around"
+        ],
+        "sumOfAges": 66131,
+        "numOfPlayers": 2452,
+        "AverageAge": 26
+    },
+    "1912": {
+        "Event": [
+            "Swimming Men's 200 metres Breaststroke"
+        ],
+        "sumOfAges": 106960,
+        "numOfPlayers": 3884,
+        "AverageAge": 27
+    },
+    "1920": {
+        "Event": [
+            "Football Men's Football"
+        ],
+        "sumOfAges": 100966,
+        "numOfPlayers": 3447,
+        "AverageAge": 29
+    },
+    "1924": {
+        "Event": [
+            "Swimming Men's 200 metres Breaststroke"
+        ],
+        "sumOfAges": 129127,
+        "numOfPlayers": 4551,
+        "AverageAge": 28
+    },
+    "1928": {
+        "Event": [
+            "Athletics Men's Long Jump"
+        ],
+        "sumOfAges": 134238,
+        "numOfPlayers": 4611,
+        "AverageAge": 29
+    },
+    "1932": {
+        "Event": [
+            "Athletics Women's 100 metres"
+        ],
+        "sumOfAges": 97453,
+        "numOfPlayers": 2991,
+        "AverageAge": 32
+    },
+    "1936": {
+        "Event": [
+            "Athletics Men's Pole Vault"
+        ],
+        "sumOfAges": 197888,
+        "numOfPlayers": 7188,
+        "AverageAge": 27
+    },
+    "1948": {
+        "Event": [
+            "Gymnastics Men's Individual All-Around"
+        ],
+        "sumOfAges": 181454,
+        "numOfPlayers": 6304,
+        "AverageAge": 28
+    },
+    "1952": {
+        "Event": [
+            "Swimming Men's 400 metres Freestyle"
+        ],
+        "sumOfAges": 237573,
+        "numOfPlayers": 9081,
+        "AverageAge": 26
+    },
+    "1956": {
+        "Event": [
+            "Speed Skating Men's 1,500 metres"
+        ],
+        "sumOfAges": 150271,
+        "numOfPlayers": 5796,
+        "AverageAge": 25
+    },
+    "1960": {
+        "Event": [
+            "Speed Skating Men's 500 metres"
+        ],
+        "sumOfAges": 226872,
+        "numOfPlayers": 9014,
+        "AverageAge": 25
+    },
+    "1964": {
+        "Event": [
+            "Speed Skating Men's 1,500 metres"
+        ],
+        "sumOfAges": 235076,
+        "numOfPlayers": 9424,
+        "AverageAge": 24
+    },
+    "1968": {
+        "Event": [
+            "Sailing Mixed Three Person Keelboat"
+        ],
+        "sumOfAges": 251234,
+        "numOfPlayers": 10361,
+        "AverageAge": 24
+    },
+    "1972": {
+        "Event": [
+            "Sailing Mixed Three Person Keelboat"
+        ],
+        "sumOfAges": 288373,
+        "numOfPlayers": 11863,
+        "AverageAge": 24
+    },
+    "1976": {
+        "Event": [
+            "Athletics Men's Pole Vault"
+        ],
+        "sumOfAges": 249147,
+        "numOfPlayers": 10450,
+        "AverageAge": 23
+    },
+    "1980": {
+        "Event": [
+            "Cross Country Skiing Men's 30 kilometres"
+        ],
+        "sumOfAges": 207329,
+        "numOfPlayers": 8750,
+        "AverageAge": 23
+    },
+    "1984": {
+        "Event": [
+            "Luge Women's Singles"
+        ],
+        "sumOfAges": 271772,
+        "numOfPlayers": 11372,
+        "AverageAge": 23
+    },
+    "1988": {
+        "Event": [
+            "Speed Skating Women's 500 metres"
+        ],
+        "sumOfAges": 350741,
+        "numOfPlayers": 14566,
+        "AverageAge": 24
+    },
+    "1992": {
+        "Event": [
+            "Basketball Men's Basketball"
+        ],
+        "sumOfAges": 398076,
+        "numOfPlayers": 16369,
+        "AverageAge": 24
+    },
+    "1994": {
+        "Event": [
+            "Speed Skating Women's 500 metres"
+        ],
+        "sumOfAges": 77125,
+        "numOfPlayers": 3158,
+        "AverageAge": 24
+    },
+    "1996": {
+        "Event": [
+            "Sailing Women's Windsurfer"
+        ],
+        "sumOfAges": 343130,
+        "numOfPlayers": 13772,
+        "AverageAge": 24
+    },
+    "1998": {
+        "Event": [
+            "Alpine Skiing Men's Downhill"
+        ],
+        "sumOfAges": 90663,
+        "numOfPlayers": 3603,
+        "AverageAge": 25
+    },
+    "2000": {
+        "Event": [
+            "Badminton Men's Singles"
+        ],
+        "sumOfAges": 351339,
+        "numOfPlayers": 13820,
+        "AverageAge": 25
+    },
+    "2002": {
+        "Event": [
+            "Ice Hockey Men's Ice Hockey"
+        ],
+        "sumOfAges": 106490,
+        "numOfPlayers": 4109,
+        "AverageAge": 25
+    },
+    "2004": {
+        "Event": [
+            "Wrestling Men's Light-Heavyweight, Greco-Roman"
+        ],
+        "sumOfAges": 344672,
+        "numOfPlayers": 13443,
+        "AverageAge": 25
+    },
+    "2006": {
+        "Event": [
+            "Alpine Skiing Men's Downhill"
+        ],
+        "sumOfAges": 113753,
+        "numOfPlayers": 4382,
+        "AverageAge": 25
+    },
+    "2008": {
+        "Event": [
+            "Handball Women's Handball"
+        ],
+        "sumOfAges": 349984,
+        "numOfPlayers": 13600,
+        "AverageAge": 25
+    },
+    "2010": {
+        "Event": [
+            "Alpine Skiing Men's Giant Slalom"
+        ],
+        "sumOfAges": 114999,
+        "numOfPlayers": 4402,
+        "AverageAge": 26
+    },
+    "2012": {
+        "Event": [
+            "Judo Men's Extra-Lightweight"
+        ],
+        "sumOfAges": 335421,
+        "numOfPlayers": 12920,
+        "AverageAge": 25
+    },
+    "2014": {
+        "Event": [
+            "Ice Hockey Men's Ice Hockey"
+        ],
+        "sumOfAges": 127104,
+        "numOfPlayers": 4891,
+        "AverageAge": 25
+    },
+    "2016": {
+        "Event": [
+            "Weightlifting Women's Super-Heavyweight"
+        ],
+        "sumOfAges": 358734,
+        "numOfPlayers": 13688,
+        "AverageAge": 26
+    }
+}
