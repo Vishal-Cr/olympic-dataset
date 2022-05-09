@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-    <link rel="stylesheet" href="chart.css">
+    <link rel="stylesheet" href="./static/chart.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"
         integrity="sha512-QSkVNOCYLtj73J4hbmVoOV6KVZuMluZlioC+trLpewV8qMjsWqlIQvkn1KGX2StWvPMdWGBqim1xlC8krl1EKQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <script src="../package/dist/chart.js"></script>
+    <script src="./static/chart.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
         integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -29,11 +29,13 @@
 </head>
 
 <body>
-    <!-- <img src="./olympicImage.jpg" alt="" class="hero-image"> -->
     <div class="whole-page">
-        <h1 style="background:rgba(0,0,0,0.5);color:#fff;width:20vw;padding:0.3rem;border-radius:10px;">Olympic Datasets
-            <i class="fa-brands fa-nfc-symbol"></i>
-        </h1>
+        <div class="page-title_heading">
+
+            <h1>Olympic Datasets
+                <i class="fa-brands fa-nfc-symbol"></i>
+            </h1>
+        </div>
 
         <div class="chart-container events-hosted">
             <h4>Number of Olympics Events Hosted</h4>
@@ -44,7 +46,7 @@
         <div class="chart-container">
             <h4>Top Ten Countries With Overall Most Medals</h4>
             <canvas id="topTenCountriesWithMostMedals" aria-label="Top Countries with most medals" role="img"
-                style="min-width:2rem;max-width:95vw;min-height:2rem;max-height:60vh"></canvas>
+            style="min-width:2rem;max-width:95vw;min-height:2rem;max-height:80vh"></canvas>
         </div>
 
         <div class="chart-container">
@@ -67,14 +69,13 @@
         </div>
 
         <!-- </div> -->
-        <footer>
-            <small>Copyright &copy;-2022 Vishal-Anthony (Note:The Data provided above is till year 2016)</small>
-        </footer>
     </div>
+    <span class="table-footer">Copyright &copy;-2022 Vishal-Anthony (Note:The Data provided above is till year
+        2016)</span>
 
 
 
-    <script src="charts.js"></script>
+    <script src="./static/charts.js"></script>
     <!-- Include the JavaScript file for Bootstrap table -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js">
     </script>
