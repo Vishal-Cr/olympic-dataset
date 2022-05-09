@@ -3,7 +3,7 @@ const cors = require("cors");
 
 const path = require("path");
 const app = express();
-const PORT = process.env.PORT || 3000;
+
 
 const getEventsHostedPerYear = require("../src/output/getEventsHostedPerYear.json");
 const AverageNumberOfMaleFemale = require("../src/output/getMalesAndFemalesPerDecade.json");
@@ -40,7 +40,7 @@ app.get("/getAverageAgePerSeason.json", (req, res) => {
   res.send(JSON.stringify(AverageAgePerYear));
 });
 
-app.listen(PORT, (error) => {
+app.listen(process.env.PORT || 3000, (error) => {
   if (!error)
     console.log(
       "Server is Successfully Running, and App is listening on port " + PORT
