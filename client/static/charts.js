@@ -1,4 +1,4 @@
-const serverUrl = "http://127.0.0.1:3000/";
+const serverUrl = process.env.PORT;
 fetch(serverUrl + "getEventsHostedPerYear.json")
   .then((response) => response.json())
   .then((data) => {
