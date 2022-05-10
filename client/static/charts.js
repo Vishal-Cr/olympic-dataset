@@ -1,4 +1,4 @@
-const serverUrl = `http://127.0.0.1:${process.env.PORT}`;
+const serverUrl = `https://afternoon-depths-81427.herokuapp.com/`;
 fetch(serverUrl + "getEventsHostedPerYear.json")
   .then((response) => response.json())
   .then((data) => {
@@ -8,7 +8,7 @@ fetch(serverUrl + "getEventsHostedPerYear.json")
 fetch(serverUrl + "getTopTenCountriesWithMostMedals.json")
   .then((response) => response.json())
   .then((data) => {
-    // console.log(data);
+    
     chartForTopTenCountriesWithMostMedals(data);
   });
 
